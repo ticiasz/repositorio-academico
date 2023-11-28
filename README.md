@@ -1,6 +1,6 @@
 # Repositório Acadêmico
 
-O objetivo deste repositório é guardar e divulgar projetos acadêmicos e certificados, a fim de demonstrar meus conhecimentos, competências e histórico de atividades.
+O objetivo deste repositório é guardar e divulgar **projetos acadêmicos** e **certificados**, a fim de demonstrar meus conhecimentos, competências e histórico de atividades.
 
 # Projetos Acadêmicos
 
