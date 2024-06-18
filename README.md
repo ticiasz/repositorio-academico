@@ -26,6 +26,8 @@ Nesse documento há a gramática da Linguagem TINY, desenvolvida para o processo
 
 Este documento tem como objetivo a especificação e apresentação dos principais requisitos do GHOST (Gerador de Histórias Online Sem Título), um sistema pensado para facilitar no processo criativo de desenvolvimento de histórias com auxílio da Inteligência Artificial. Ele contém as funcionalidades, restrições e regras de negócio do sistema, além dos atores envolvidos e os casos de uso.
 
+[Acesse o documento aqui](projetos/GHOST.pdf)
+
 ## Sensor de Proximidade - Arduino
 
 Esse relatório demonstra o desenvolvimentos de um sensor de proximidade interliado a um motor, utilizando a simulação de um Arduino por meio da plataforma Tinkercad.
